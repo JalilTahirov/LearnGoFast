@@ -20,6 +20,7 @@ func main() {
 		//result = number * 1.7
 		fmt.Println("AZN:", result2)
 	*/
+
 	var arrInput = []int{1, 2, 3}
 
 	//var restult = addFunction(5)
